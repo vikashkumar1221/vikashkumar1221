@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Vikash
 
-<!--
-**vikashkumar1221/vikashkumar1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning
+- React
+- Node.js
+- DSA
+
+📫 Connect with me
+LinkedIn:
+Email:
